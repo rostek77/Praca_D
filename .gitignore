@@ -1,0 +1,4 @@
+Unikaj wszystkich plikow wykonalnych kompilacji
+
+*.o
+*.out
